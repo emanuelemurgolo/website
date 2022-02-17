@@ -1,0 +1,22 @@
+---
+title: "Working Papers"
+output: html_document
+---
+
+#
+##
+
+
+<font style="font-family: Helvetica, sans-serif; font-size:14pt">
+
+### Below you can find the list of my working papers
+
+</font>
+
+<font style="font-family: Helvetica, sans-serif; font-size:12pt">
+
+Russo, M., Alboni F., Carreto Sanginés J., Murgolo E., and Simonazzi A. (2021).
+‘Who Produces What and Where. Companies and Countries in Vehicle
+Production, 1999-2017’. INET Working Paper Series forthcoming
+
+</font>
