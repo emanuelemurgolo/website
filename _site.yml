@@ -10,6 +10,8 @@ navbar:
       href: publications.html
     - text: "Working Papers"
       href: workingpapers.html
+    - text: "CV"
+      href: curriculum.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<emanuele.murgolo@upf.edu>

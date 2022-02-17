@@ -7,19 +7,14 @@ output: html_document
 ##
 
   
-<font style="font-family: Helvetica, sans-serif; font-size:14pt">
-
-### Below you can find the list of the conferences I have participated in
-
-</font>
+<p style="font-family: Helvetica, sans-serif; font-size:14pt; font-style:Helvetica"> Below you can find the list of conferences I have participated in: </p>
 
 <font style="font-family: Helvetica, sans-serif; font-size:12pt">
 
-1. Simonazzi A., Carreto Sanginés J., Russo M., Murgolo E. “Il futuro dell'automotive: sfide pericolose o una nuova vita per un mercato saturo?”, XXXVII c.MET05 Policy Research Meeting, 31/03/2021.
+1. Simonazzi A., Carreto Sanginés J., Russo M., Murgolo E. “[Il futuro dell'automotive: sfide pericolose o una nuova vita per un mercato saturo?](http://www.cmet05.it/wordpress/wp-content/uploads/2021/04/Presentazione-PRM-31-Marzo.pdf)”, XXXVII c.MET05 Policy Research Meeting, 31/03/2021.
 
-2. Russo, M., Alboni F., Murgolo E., Carreto-Sanginés J., Simonazzi A., Pavone P. “Complex network analysis of the dynamic of changes in the electric vehicle agent and artifact space”, International colloquium of Gerpisa 2021, 17/06/2021.
+2. Russo, M., Alboni F., Murgolo E., Carreto-Sanginés J., Simonazzi A., Pavone P. “[Complex network analysis of the dynamic of changes in the electric vehicle agent and artifact space](https://gerpisa.org/node/6379)”, International colloquium of Gerpisa 2021, 17/06/2021.
 
-3. Russo, M., Alboni F.., Carreto-Sanginés J., De Domenico M., Mangioni G., Murgolo E., Pavone P., Righi S., and Simonazzi A. "Production, trade and value chains in the global auto industry", L'industria dell'auto e gli investimenti della Cina nell'era dell'auto elettrica e della mobilità sostenibile, 02/07/2021.
-
+3. Russo, M., Alboni F.., Carreto-Sanginés J., De Domenico M., Mangioni G., Murgolo E., Pavone P., Righi S., and Simonazzi A. "[Production, trade and value chains in the global auto industry, L'industria dell'auto e gli investimenti della Cina nell'era dell'auto elettrica e della mobilità sostenibile](https://www.magazine.unimore.it/site/home/prossimi-eventi/scheda820012689.html)", 02/07/2021.
 
 </font>

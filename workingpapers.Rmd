@@ -7,16 +7,22 @@ output: html_document
 ##
 
 
-<font style="font-family: Helvetica, sans-serif; font-size:14pt">
+<p style="font-family: Helvetica, sans-serif; font-size:14pt; font-style:Helvetica"> Below you can find my list of working papers: </p>
 
-### Below you can find the list of my working papers
-
-</font>
 
 <font style="font-family: Helvetica, sans-serif; font-size:12pt">
 
-Russo, M., Alboni F., Carreto Sanginés J., Murgolo E., and Simonazzi A. (2021).
+1. Russo, M., Alboni F., Carreto Sanginés J., Murgolo E., and Simonazzi A. (2021).
 ‘Who Produces What and Where. Companies and Countries in Vehicle
-Production, 1999-2017’. INET Working Paper Series forthcoming
+Production, 1999-2017’. INET Working Paper Series (forthcoming)
+
+</font>
+
+<p style="font-family: Helvetica, sans-serif; font-size:14pt; font-style:Helvetica"> Other projects </p>
+
+<font style="font-family: Helvetica, sans-serif; font-size:12pt">
+
+I have also collaborated with an Italian online journal, Lo Spiegone, since 2018.  
+You can read my articles [here](https://lospiegone.com/emanuele-murgolo/).
 
 </font>

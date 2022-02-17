@@ -1,0 +1,15 @@
+---
+title: "CV"
+output: html_document
+---
+
+#
+##
+
+<p style="font-family: Helvetica, sans-serif; font-size:14pt; font-style:Helvetica"> Download my curriculum vitae </p>
+
+<font style="font-family: Helvetica, sans-serif; font-size:12pt">
+
+<a href="files/CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>
+
+</font>
