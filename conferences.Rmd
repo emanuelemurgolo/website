@@ -1,7 +1,0 @@
----
-title: "Conferences"
-output: html_document
----
-
-lorem ipsum
-
